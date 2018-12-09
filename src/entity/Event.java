@@ -1,4 +1,4 @@
-
+package entity;
 public class Event extends Thucthe {
 		 private String diadiem;
 		 private String daidientochuc;

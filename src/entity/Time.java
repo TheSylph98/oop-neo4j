@@ -1,4 +1,4 @@
-
+package entity;
 public class Time extends Thucthe {
 
 	public Time() {

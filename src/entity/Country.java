@@ -1,4 +1,4 @@
-
+package entity;
 public class Country extends Thucthe {
 
 	public Country() {

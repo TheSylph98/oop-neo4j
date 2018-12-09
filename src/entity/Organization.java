@@ -1,4 +1,4 @@
-
+package entity;
 public class Organization extends Thucthe {
 	
 	 private String truso;

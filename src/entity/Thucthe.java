@@ -1,4 +1,4 @@
-
+package entity;
 public class Thucthe {
 	 private String dinhdanh;
 	 private String nhan;
